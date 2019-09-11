@@ -1,5 +1,5 @@
 ---
-title: blog post numbah 1
+title: "blog-post-numbah-1"
 date: 2019/09/11
 ---
 
